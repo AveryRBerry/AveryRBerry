@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=averyrberry&label=Profile%20views&color=0e75b6&style=flat" alt="averyrberry" /> </p>
 
-- 🔭 I’m currently working on [AIRBNB (CLONE)](https://airdnd-web-service.onrender.com/)
-
-- 👨‍💻 All of my projects are available at [https://averyrberry.github.io/Portfolio/](https://averyrberry.github.io/Portfolio/)
+- 🔭 I’m currently working on [pollpixel.com](https://pollpixel.com/)
 
 - 📫 How to reach me **AveryRBerry@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/14Sq2JIut04TO3mb4E7D8MZ2nWs5VX1TkgSimXQJTv1M/edit?usp=sharing](https://docs.google.com/document/d/14Sq2JIut04TO3mb4E7D8MZ2nWs5VX1TkgSimXQJTv1M/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1StTbPxQZo-hSlo8-yJ6h1TyPP3BLEHPSNOVWvXF1m98/edit)
 
 - ⚡ Fun fact **Im a big fan of fantasy books**
 
